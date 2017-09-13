@@ -1,7 +1,8 @@
 {
     "name": "Twitter node",
     "permissions": {
-        "network": "Needs to access twitter API"
+        "network": "Needs to access twitter API",
+        "unboxed": "Needs shared access to /tmp"
     },
     "options": [{
         "title": "Generic",
